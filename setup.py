@@ -44,6 +44,6 @@ setup(
         'simplejson>=3.10.0',
         'stomp.py>=4.1.17',
         'texttable>=0.8.8',
-        'twilio>=6.0.0',
+        'twilio==6.0.0',
     ]
 )
